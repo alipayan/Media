@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{9250F5A6-FEC0-49A6-A9F4-20D4B181C832}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Media", "src\Media\Media.csproj", "{301E9C43-C1D6-4441-943D-0DDC261B185C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{301E9C43-C1D6-4441-943D-0DDC261B185C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{301E9C43-C1D6-4441-943D-0DDC261B185C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{301E9C43-C1D6-4441-943D-0DDC261B185C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{301E9C43-C1D6-4441-943D-0DDC261B185C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{301E9C43-C1D6-4441-943D-0DDC261B185C} = {9250F5A6-FEC0-49A6-A9F4-20D4B181C832}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D959AABD-4046-4A37-8DA5-5243A9BF0B3F}
+	EndGlobalSection
+EndGlobal
